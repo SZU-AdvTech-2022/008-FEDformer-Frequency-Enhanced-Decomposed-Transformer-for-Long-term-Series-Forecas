@@ -1,0 +1,7 @@
+@article{REPO-008,
+    author = "Zhou, Tian and Ma, Ziqing and Wen, Qingsong and Wang, Xue and Sun, Liang and Jin, Rong",
+    journal = "CoRR",
+    title = "{FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting}",
+    volume = "abs/2201.12740",
+    year = "2022"
+}
